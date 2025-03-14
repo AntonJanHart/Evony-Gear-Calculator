@@ -10,6 +10,9 @@ How to use:
 
 Output:
   Target Level: 7
+  
   Units to buy: 98
+  
   Total Gems: 19,600
+  
   Final units distribution: Lv1: 0, Lv2: 0, Lv3: 0, Lv4: 0, Lv5: 0, Lv6: 0, Lv7: 1
